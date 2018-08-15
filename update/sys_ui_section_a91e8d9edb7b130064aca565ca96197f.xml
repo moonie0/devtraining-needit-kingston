@@ -5,13 +5,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-08-10 13:49:32</sys_created_on>
-            <sys_id>307e05dedb7b130064aca565ca9619b7</sys_id>
+            <sys_created_on>2018-08-15 18:05:07</sys_created_on>
+            <sys_id>25e8f37bdbb3130064aca565ca961981</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit_task" sys_domain="global" view="Default view">a91e8d9edb7b130064aca565ca96197f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-08-10 13:49:32</sys_updated_on>
+            <sys_updated_on>2018-08-15 18:05:07</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -19,13 +19,13 @@
             <element>assigned_to</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-08-10 13:49:32</sys_created_on>
-            <sys_id>b07e05dedb7b130064aca565ca9619b7</sys_id>
+            <sys_created_on>2018-08-15 18:05:07</sys_created_on>
+            <sys_id>e9e8f37bdbb3130064aca565ca961981</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit_task" sys_domain="global" view="Default view">a91e8d9edb7b130064aca565ca96197f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-08-10 13:49:32</sys_updated_on>
+            <sys_updated_on>2018-08-15 18:05:07</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -33,13 +33,13 @@
             <element>due_date</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-08-10 13:49:32</sys_created_on>
-            <sys_id>347e05dedb7b130064aca565ca9619b7</sys_id>
+            <sys_created_on>2018-08-15 18:05:07</sys_created_on>
+            <sys_id>6de8f37bdbb3130064aca565ca961981</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit_task" sys_domain="global" view="Default view">a91e8d9edb7b130064aca565ca96197f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-08-10 13:49:32</sys_updated_on>
+            <sys_updated_on>2018-08-15 18:05:07</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -47,13 +47,13 @@
             <element>.split</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-08-10 13:49:32</sys_created_on>
-            <sys_id>b47e05dedb7b130064aca565ca9619b7</sys_id>
+            <sys_created_on>2018-08-15 18:05:07</sys_created_on>
+            <sys_id>ede8f37bdbb3130064aca565ca961981</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit_task" sys_domain="global" view="Default view">a91e8d9edb7b130064aca565ca96197f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-08-10 13:49:32</sys_updated_on>
+            <sys_updated_on>2018-08-15 18:05:07</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -61,13 +61,13 @@
             <element>priority</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-08-10 13:49:32</sys_created_on>
-            <sys_id>387e05dedb7b130064aca565ca9619b7</sys_id>
+            <sys_created_on>2018-08-15 18:05:07</sys_created_on>
+            <sys_id>61e8f37bdbb3130064aca565ca961982</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit_task" sys_domain="global" view="Default view">a91e8d9edb7b130064aca565ca96197f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-08-10 13:49:32</sys_updated_on>
+            <sys_updated_on>2018-08-15 18:05:07</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -75,13 +75,13 @@
             <element>state</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-08-10 13:49:32</sys_created_on>
-            <sys_id>b87e05dedb7b130064aca565ca9619b7</sys_id>
+            <sys_created_on>2018-08-15 18:05:07</sys_created_on>
+            <sys_id>e1e8f37bdbb3130064aca565ca961982</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit_task" sys_domain="global" view="Default view">a91e8d9edb7b130064aca565ca96197f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-08-10 13:49:32</sys_updated_on>
+            <sys_updated_on>2018-08-15 18:05:07</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -89,13 +89,13 @@
             <element>.end_split</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-08-10 13:49:32</sys_created_on>
-            <sys_id>3c7e05dedb7b130064aca565ca9619b7</sys_id>
+            <sys_created_on>2018-08-15 18:05:07</sys_created_on>
+            <sys_id>65e8f37bdbb3130064aca565ca961982</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit_task" sys_domain="global" view="Default view">a91e8d9edb7b130064aca565ca96197f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-08-10 13:49:32</sys_updated_on>
+            <sys_updated_on>2018-08-15 18:05:07</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
@@ -103,13 +103,13 @@
             <element>short_description</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-08-10 13:49:32</sys_created_on>
-            <sys_id>bc7e05dedb7b130064aca565ca9619b7</sys_id>
+            <sys_created_on>2018-08-15 18:05:07</sys_created_on>
+            <sys_id>e5e8f37bdbb3130064aca565ca961982</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit_task" sys_domain="global" view="Default view">a91e8d9edb7b130064aca565ca96197f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-08-10 13:49:32</sys_updated_on>
+            <sys_updated_on>2018-08-15 18:05:07</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -117,13 +117,13 @@
             <element>description</element>
             <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-08-10 13:49:32</sys_created_on>
-            <sys_id>307e05dedb7b130064aca565ca9619b8</sys_id>
+            <sys_created_on>2018-08-15 18:05:07</sys_created_on>
+            <sys_id>69e8f37bdbb3130064aca565ca961982</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit_task" sys_domain="global" view="Default view">a91e8d9edb7b130064aca565ca96197f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-08-10 13:49:32</sys_updated_on>
+            <sys_updated_on>2018-08-15 18:05:07</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -131,15 +131,29 @@
             <element>work_notes</element>
             <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-08-10 13:49:32</sys_created_on>
-            <sys_id>b07e05dedb7b130064aca565ca9619b8</sys_id>
+            <sys_created_on>2018-08-15 18:05:07</sys_created_on>
+            <sys_id>e9e8f37bdbb3130064aca565ca961982</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit_task" sys_domain="global" view="Default view">a91e8d9edb7b130064aca565ca96197f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-08-10 13:49:32</sys_updated_on>
+            <sys_updated_on>2018-08-15 18:05:07</sys_updated_on>
             <sys_user/>
             <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>activity.xml</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-08-15 18:05:07</sys_created_on>
+            <sys_id>6de8f37bdbb3130064aca565ca961982</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit_task" sys_domain="global" view="Default view">a91e8d9edb7b130064aca565ca96197f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-08-15 18:05:07</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
         </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption/>
